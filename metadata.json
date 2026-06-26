@@ -1,0 +1,6 @@
+{
+  "name": "DinheiroClaro",
+  "description": "Controle financeiro pessoal sem cadastro, 100% no navegador e sem servidor",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
